@@ -1,1 +1,2 @@
-# bitcoin_and_cryptocurrency_technologies_coursera
+# bitcoin and cryptocurrency technologies coursera
+In-progress
